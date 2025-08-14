@@ -16,6 +16,14 @@
     "code": 1
   },
   {
+    "url": "https://thenewstack.io/feed/",
+    "code": 1
+  },
+  {
+    "url": "https://aws.amazon.com/cn/blogs/devops/feed/",
+    "code": 1
+  },
+  {
     "url": "https://devops.com/feed/",
     "code": 2
   }
